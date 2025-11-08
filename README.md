@@ -27,7 +27,7 @@ After each action, a **new question** and a **new block** appear — testing bot
 
 ---
 
-## 🎥 Gameplay Preview Video
+## 🎥 Gameplay Preview
 
 ![Gameplay Preview](MathrisGif.gif)
 
